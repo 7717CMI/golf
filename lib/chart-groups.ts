@@ -30,7 +30,7 @@ export const CHART_GROUPS: ChartGroup[] = [
   },
   {
     id: 'competitive-intelligence',
-    label: 'Competitive Intelligence 2025',
+    label: 'Competitive Intelligence',
     description: 'Competitor analysis and market share',
     charts: ['competitive-intelligence'], // This includes both Market Share and Competitive Dashboard
     icon: '🏆'

@@ -688,7 +688,7 @@ export default function CustomerIntelligenceDatabase({ title }: CustomerIntellig
       <h2 className="text-xl font-bold text-black mb-6">Customer Intelligence Database</h2>
 
       <Preposition
-        title="Preposition 1 - Basic"
+        title="Proposition 1 - Basic"
         isOpen={openPreposition === 1}
         onToggle={() => togglePreposition(1)}
       >
@@ -696,7 +696,7 @@ export default function CustomerIntelligenceDatabase({ title }: CustomerIntellig
       </Preposition>
 
       <Preposition
-        title="Preposition 2 - Advanced"
+        title="Proposition 2 - Advanced"
         isOpen={openPreposition === 2}
         onToggle={() => togglePreposition(2)}
       >
@@ -704,7 +704,7 @@ export default function CustomerIntelligenceDatabase({ title }: CustomerIntellig
       </Preposition>
 
       <Preposition
-        title="Preposition 3 - Premium"
+        title="Proposition 3 - Premium"
         isOpen={openPreposition === 3}
         onToggle={() => togglePreposition(3)}
       >
