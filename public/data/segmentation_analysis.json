@@ -1,0 +1,42 @@
+{
+  "ASEAN": {
+    "By Product Type": {},
+    "By Seating Capacity": {},
+    "By Usage Mode": {},
+    "By Seller Type": {},
+    "By Sales Channel": {},
+    "By End-User/Customer": {},
+    "By Country": {
+      "Thailand": {},
+      "Vietnam": {},
+      "Cambodia": {},
+      "Laos": {},
+      "Myanmar": {},
+      "Indonesia": {},
+      "Malaysia": {},
+      "Philippines": {},
+      "Singapore": {},
+      "Brunei": {}
+    }
+  },
+  "Middle East & Africa": {
+    "By Product Type": {},
+    "By Seating Capacity": {},
+    "By Usage Mode": {},
+    "By Seller Type": {},
+    "By Sales Channel": {},
+    "By End-User/Customer": {},
+    "By Country": {
+      "GCC": {
+        "Saudi Arabia": {},
+        "United Arab Emirates (UAE)": {},
+        "Qatar": {},
+        "Kuwait": {},
+        "Oman": {},
+        "Bahrain": {}
+      },
+      "Turkey": {},
+      "South Africa": {}
+    }
+  }
+}
